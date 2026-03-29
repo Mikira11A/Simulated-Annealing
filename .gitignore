@@ -2,3 +2,4 @@
 /temp.txt
 /graph_example.py
 /__pycache__/
+.venv/
